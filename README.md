@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dalduf
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in web dev and app dev.
 - 🌱 I’m currently learning Linux, Python, HTML, CSS, JS, Vim.
 
